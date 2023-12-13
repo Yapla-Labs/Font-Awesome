@@ -5,6 +5,7 @@
  */
 // Font Awesome core compile (Web Fonts-based)
 // -------------------------
+/* Tweak of brands: include used icons only. */
 
 @import 'functions';
 @import 'variables';
@@ -18,4 +19,5 @@
 @import 'rotated-flipped';
 @import 'stacked';
 @import 'icons';
+@import 'brands';
 @import 'screen-reader';
